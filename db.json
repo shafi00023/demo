@@ -1,14 +1,62 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+"palletdata" : [
+    {
+        "id": 1,
+        "palletname": "Pallet1",
+        "cartonname": "Carton1",
+        "productname": "Diet Coke",
+        "psize": "DTCOKE1x330",
+        "pic": "https://drive.google.com/file/d/1VsFJhRq7p5eZNxGG943H8kRcXZ9P7xAW/view?usp=sharing",
+        "item": "1 Item",
+        "location": "A101",
+        "area": "Pallet, Main Warehouse",
+        "available": 25
+    },
+    {
+        "id": 2,
+        "palletname": "Pallet2",
+        "cartonname": "Carton2",
+        "productname": "Lilt",
+        "psize": "COKEZRO4x330",
+        "pic": "https://drive.google.com/file/d/1KX3bGWphJ7SRoBJdYAyE6xDlpSIS-vSQ/view?usp=sharing",
+        "item": "1 Item",
+        "location": "A101",
+        "area": "Pallet, Main Warehouse",
+        "available": 10
+    },
+    {
+        "id": 3,
+        "palletname": "Pallet3",
+        "cartonname": "Carton3",
+        "productname": "Coke Zero",
+        "psize": "COKEZRO4x330",
+        "pic": "https://drive.google.com/file/d/1DDNZFlqXc4ZZxrYOxezLYuyOmJyk7is2/view?usp=sharing",
+        "item": "1 Item",
+        "location": "A101",
+        "area": "Pallet, Main Warehouse",
+        "available": 15
+    }
+    {
+        "id": 4,
+        "palletname": "",
+        "cartonname": "",
+        "productname": "Yorkshire Tea",
+        "psize": "YRKSTEA",
+        "pic": "https://drive.google.com/file/d/1X_hmjVX_cmyuIFp7vbnTzBsxmweZ8-et/view?usp=sharing",
+        "item": "1 Item",
+        "location": "A101",
+        "area": "Pallet, Main Warehouse",
+        "available": 15
+    }
+    {
+        "id": 5,
+        "palletname": "",
+        "cartonname": "",
+        "productname": "Semi-Skimmed Milk",
+        "psize": "SEMISKIMMLK",
+        "pic": "https://drive.google.com/file/d/1btm3BPkobg1zQ7c4kwAJ74483VCXI7Ju/view?usp=sharing",
+        "item": "1 Item",
+        "location": "A101",
+        "area": "Pallet, Main Warehouse",
+        "available": 15
+    }
+],
